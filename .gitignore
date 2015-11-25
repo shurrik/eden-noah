@@ -38,6 +38,6 @@ gradle/
 
 *.class
 classes/
-build/resources/
-build/libs/
-build/tmp/
+**/build/resources/
+**/build/libs/
+**/build/tmp/
